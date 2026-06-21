@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website showcasing my work as a FullStack Developer & AI Engineer with interactive animations, smooth scrolling, and a sleek dark theme.
 
-**Live Portfolio**: [View Online](#) | **GitHub**: [RamJi2001-R](https://github.com/RamJi2001-R)
+**Live Portfolio**: [View Online](https://my-portfolio-ten-gules-68.vercel.app/) | **GitHub**: [RamJi2001-R](https://github.com/RamJi2001-R)
 
 ---
 
